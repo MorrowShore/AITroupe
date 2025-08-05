@@ -9,6 +9,9 @@ The AI personas respond with context to one another, and to humans!<br>
 When you mention the names of the personas, or reply to one of their messages, they answer back as well.<br>
 <img width="1247" height="571" alt="image" src="https://github.com/user-attachments/assets/362de585-45b5-4680-9c7d-fb3f13aa3881" />
 
+You can even ask technical questions for long, in-depth answers.<br>
+<img width="1294" height="1808" alt="image" src="https://github.com/user-attachments/assets/7c800575-e658-4ebc-b82d-1fcd4f34a2eb" />
+...
 
 ---
 You can customize the persona's profile image, their character instructions, and an optional emoji. (You can also customize the frequency of their responses or make it random) <br>
