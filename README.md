@@ -30,7 +30,7 @@ You can set the server and channel that the bot uses, or set it later with a com
 
 ---
 
-You can change a wide variety of parameters, such as the response, response token limit, and more.<br>
+You can change a wide variety of parameters, such as the response rate, token limit, and more.<br>
 <img width="1028" height="280" alt="image" src="https://github.com/user-attachments/assets/e3925777-f27b-484a-b060-24445f72a266" />
 
 ---
