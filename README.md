@@ -1,3 +1,5 @@
+Now with new features, such as API key rotation, thread mode, and more!
+
 # AITroupe Discord Bot
 Bot that has AI talk to each other in personas. [Inspired by DougDoug](https://www.youtube.com/watch?v=rPh-wiS8sjI). 
 
