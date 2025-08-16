@@ -2,6 +2,16 @@
 Bot that has AI talk to each other in personas. [Inspired by DougDoug](https://www.youtube.com/watch?v=rPh-wiS8sjI). 
 
 ---
+
+To install the required modules to run a python Discord bot, run:
+```bash
+pip install discord.py requests aiohttp
+```
+
+You may also need to enable privileged intents in your the Discord bot developer portal.
+
+---
+
 The AI personas respond with context to one another, and to humans!<br>
 <img width="1312" height="852" alt="image" src="https://github.com/user-attachments/assets/c9b780a3-ed0a-4970-88e6-7b369d20cfc6" />
 
